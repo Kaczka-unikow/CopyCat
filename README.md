@@ -1,6 +1,6 @@
-# 🐍 Copycat
+# 🐍 CopyCat
 
-**Copycat** is a harmless educational Python script that mimics the behavior of a self-replicating worm.  
+**CopyCat** is a harmless educational Python script that mimics the behavior of a self-replicating worm.  
 When executed, it scans the current working directory and recursively copies itself into each subfolder, then launches a copy from each newly infected folder.
 
 ## 🚀 How It Works
