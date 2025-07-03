@@ -26,16 +26,6 @@ The script will flood every subdirectory with copies of itself and start them, w
 
 Use it in a safe, disposable testing folder **only**.
 
-## 📄 Example
-
-Suppose your folder looks like this:
-project/
-├── copycat.py
-├── demo/
-│ └── test/
-└── notes/
-After running `copycat.py`, each subfolder (`demo/`, `demo/test/`, `notes/`) will contain a new copy of the script, and each will launch its own process.
-
 ## 🔧 Requirements
 
 - Python 3.x (no external libraries needed)
