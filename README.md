@@ -26,6 +26,10 @@ The script will flood every subdirectory with copies of itself and start them, w
 
 Use it in a safe, disposable testing folder **only**.
 
+## 🚫 Ignored Folders
+
+The script ignores folders named .git and stop to avoid replicating into version control directories or intentionally excluded locations.
+
 ## 🔧 Requirements
 
 - Python 3.x (no external libraries needed)
