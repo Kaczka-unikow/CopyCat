@@ -10,6 +10,8 @@ def main():
 	for root, dirs, files in os.walk(os.getcwd()):
 		for subfolder in dirs:
 			try:
+				if subfolder == "stop" or subfolder == ".git":
+					continue
 				new_path = os.path.join(root, subfolder, 'copycat.py')
 				if os.path.exists(new_path):
 					continue
