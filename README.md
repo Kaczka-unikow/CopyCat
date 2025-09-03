@@ -41,3 +41,11 @@ MIT License – do whatever you want with this code, but leave attribution.
 ## 📘 Disclaimer
 
 This script is intended for **educational purposes only**. It does not damage data, but can cause system slowdowns or clutter. Use responsibly and only in controlled environments.
+
+## 📂 Versions
+
+CopyCat versions:
+- copycat.py - main file
+- copycat-for-exe.py - copycat.py prepared to compile to exe file (pyinstaller)
+- copycat.exe - compiled copycat-for-exe.py
+- copycatcp.py - a copycat.py with choosing a path (Tkinter GUI or main(path) function on import) to force, needs a normal copycat.py file in the same directory
