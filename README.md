@@ -36,7 +36,13 @@ The script ignores folders named .git and stop to avoid replicating into version
 
 ## 📜 License
 
-MIT License – do whatever you want with this code, but leave attribution.
+This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+
+ - If you fork it write that is fork of this project
+ - Fork of this repository needs to have the same license.
+ - You can't earn money from this project. 
+
+For more details, see the full license here: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 📘 Disclaimer
 
