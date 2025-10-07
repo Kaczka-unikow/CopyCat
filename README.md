@@ -28,7 +28,7 @@ Use it in a safe, disposable testing folder **only**.
 
 ## 🚫 Ignored Folders
 
-The script ignores folders named .git and stop to avoid replicating into version control directories or intentionally excluded locations.
+The script ignores folders named `.git` and `stop` to avoid replicating into version control directories or intentionally excluded locations.
 
 ## 🔧 Requirements
 
